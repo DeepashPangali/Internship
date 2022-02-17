@@ -1,2 +1,0 @@
-# Internship
-My internship projects 
